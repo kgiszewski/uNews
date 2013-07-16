@@ -96,6 +96,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="uNewsEvents.cs" />
+    <Compile Include="uNewsMvcHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="CreateNews.ascx" />
